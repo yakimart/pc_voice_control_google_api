@@ -1,0 +1,12 @@
+{
+	"user_programs":
+		{
+			"плеер": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+			"торрент": "C:\\Users\\Artem\\AppData\\Roaming\\uTorrent\\uTorrent.exe"
+		},
+
+	"scroll_length": 1500,
+	"greetings": "Здравствуйте, чем могу помочь?",
+	"debugging_mode": true
+}
+
